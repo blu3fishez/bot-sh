@@ -1,0 +1,23 @@
+{
+  "name": "bot-sh",
+  "version": "0.0.0",
+  "description": "Discord Bot which can play music and alert somethings",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/blu3fishez/bot-sh.git"
+  },
+  "author": "blu3fishez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blu3fishez/bot-sh/issues"
+  },
+  "homepage": "https://github.com/blu3fishez/bot-sh#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^14.3.0"
+  }
+}
